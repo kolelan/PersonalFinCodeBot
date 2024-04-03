@@ -1,0 +1,17 @@
+{
+    "name": "kolelan/PersonalFinCodeBot",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kolelan",
+            "email": "kolelan@yandex.ru"
+        }
+    ],
+    "require": {
+        "nutgram/nutgram": "^4.17"
+    }
+}
