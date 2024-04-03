@@ -9,9 +9,6 @@ docker-up:
 docker-down:
 	docker-compose down --remove-orphans -v
 
-run:
-	docker-compose run --rm prod php app dummy
-
 composer:
 	docker-compose run --rm cli composer install
 

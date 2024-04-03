@@ -1,5 +1,5 @@
 {
-    "name": "kolelan/PersonalFinCodeBot",
+    "name": "kolelan/personal-fin-code-bot",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
